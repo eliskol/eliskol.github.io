@@ -1,8 +1,11 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
-inline: true
+title: Just set this up!
+date: 2026-02-07 23:59:00-0400
+inline: false
 related_posts: false
 ---
 
-A simple inline announcement.
+
+artkjasdlfkjaksldfudslkkfjdakjlads
+asdkdlflkjsdk
