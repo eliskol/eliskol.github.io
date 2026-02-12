@@ -163,10 +163,10 @@ collections:
   projects:
     output: true
   teachings:
-    output: true
+    output: false
   courses:
     output: true
-    
+
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
