@@ -1,12 +1,12 @@
 ---
 layout: course
-title: MATH 220B Modern Algebra II
+title: MATH 220A Modern Algebra I
 description: Graduate course in modern algebra at UCSB.
-instructor: Amalendu Krishna
-year: 2026
-term: Winter
-term_id: 20261
-course_id: math-220b
+instructor: Zijian Yao
+year: 2025
+term: Fall
+term_id: 20254
+course_id: math-220a
 ---
 
 ## Textbooks:

@@ -12,10 +12,12 @@ horizontal: false
 {% assign course_items = site.courses | sort: 'date' | reverse %}
 
 <ul>
-{% for course in site.courses %}
+{% assign sorted_courses = site.courses | sort: "term_id" | reverse %}
+
+{% for course in sorted_courses %}
   <li>
     <a href="{{ course.url }}">{{ course.title }}</a>
-    — {{ course.code }} ({{ course.semester }})
+    — ({{ course.term }} {{course.year}})
   </li>
 {% endfor %}
 </ul>
