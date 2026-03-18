@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "courses-math-220a-modern-algebra-i",
+        },{id: "post-cauchy-39-s-integral-formula",
+        
+          title: "cauchy&#39;s integral formula",
+        
+        description: "proving cauchy&#39;s integral formula",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/cauchys-integral-formula/";
+          
+        },
+      },{id: "courses-math-220a-modern-algebra-i",
           title: 'MATH 220A Modern Algebra I',
           description: "Graduate course in modern algebra at UCSB.",
           section: "Courses",handler: () => {
