@@ -3,8 +3,8 @@ layout: post
 title: cauchy's integral formula
 date: 2026-03-17 22:33:16
 description: proving cauchy's integral formula
-tags: math complex-analysis
-categories: complex-analyis
+tags: complex-analysis
+categories: math
 ---
 
 I've been reviewing for my Complex Analysis final, and making sure I know how to prove the big theorems we've covered.
@@ -16,7 +16,7 @@ Let $f$ be an analytic function on an open set $U \subseteq \mathbb{C}$.
 Let $W \subseteq U$ be relatively compact.
 Then if $a \in W$ and $r > 0$ such that $D(a, r)$[^1] $\subseteq W$, we have $f(a) = \frac{1}{2 \pi i} \int_{\partial W} \frac{f(z)}{z-a} dz$.
 
-[^1]: Here, <span class="math inline">\$D(a, r) = \{z \in \mathbb{C} \colon |z-a| < r\}\$.</span>
+[^1]: Here, <span class="math inline">\$D(a, r) = \\{z \in \mathbb{C} \colon |z-a| < r\\}\$.</span>
 ## Proof
 
 Define $W_r = W \setminus D(a, r)$.
@@ -38,6 +38,7 @@ Now notice that $f$ is continuous since it's analytic, and since $W$ was relativ
 Since our integral expression holds for any $r$ small enough, we pass through the limit to find that
 \\[\int_{\partial W} \frac{f(z)}{z-a} dz = i \int_0^{2 \pi} f(a)d\theta = 2 \pi i f(a),\\]
 which proves the theorem.
+
 <span style="float:right">$\square$</span>
 
 Note that while we proved this theorem, we also proved Gauss' MVT!
