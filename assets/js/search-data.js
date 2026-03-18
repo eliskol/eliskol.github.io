@@ -30,7 +30,40 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-cauchy-39-s-integral-formula",
+        },{id: "post-liouville-39-s-theorem",
+        
+          title: "liouville&#39;s theorem",
+        
+        description: "proving liouville&#39;s theorem",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/liouvilles-theorem/";
+          
+        },
+      },{id: "post-the-uniqueness-principle",
+        
+          title: "the uniqueness principle",
+        
+        description: "proving the uniqueness principle",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/uniqueness-principle/";
+          
+        },
+      },{id: "post-the-maximum-modulus-principle",
+        
+          title: "the maximum modulus principle",
+        
+        description: "proving the maximum modulus principle",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/maximum-modulus-principle/";
+          
+        },
+      },{id: "post-cauchy-39-s-integral-formula",
         
           title: "cauchy&#39;s integral formula",
         
