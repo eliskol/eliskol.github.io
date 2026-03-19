@@ -14,6 +14,7 @@ I figured I might like to post this on my website so that I can make sure I have
 
 Let $f$ be an analytic function on an open set $U \subseteq \mathbb{C}$.
 Let $W \subseteq U$ be relatively compact.
+We also require that $\partial W$ is piecewise smooth and $\overline(W) \subseteq U$.
 Then if $a \in W$ and $r > 0$ such that $D(a, r)$[^1] $\subseteq W$, we have $f(a) = \frac{1}{2 \pi i} \int_{\partial W} \frac{f(z)}{z-a} dz$.
 
 [^1]: Here, <span class="math inline">\$D(a, r) = \\{z \in \mathbb{C} \colon |z-a| < r\\}\$.</span>
