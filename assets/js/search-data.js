@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-liouville-39-s-theorem",
+        },{id: "post-the-open-mapping-principle",
+        
+          title: "the open mapping principle",
+        
+        description: "proving the open mapping principle",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/open-mapping-principle/";
+          
+        },
+      },{id: "post-liouville-39-s-theorem",
         
           title: "liouville&#39;s theorem",
         
