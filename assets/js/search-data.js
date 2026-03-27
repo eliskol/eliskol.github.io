@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-the-open-mapping-principle",
+        },{id: "post-coming-back-to-math-academy-to-give-guest-lectures-on-fourier-series",
+        
+          title: "coming back to Math Academy to give guest lectures on Fourier series",
+        
+        description: "i went back to my high school to talk about math",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/math-academy-guest-lectures/";
+          
+        },
+      },{id: "post-the-open-mapping-principle",
         
           title: "the open mapping principle",
         
