@@ -1,16 +1,19 @@
 ---
-layout: course
-title: MATH 220A Modern Algebra I
-description: Graduate course in modern algebra at UCSB.
-instructor: Zijian Yao
+layout: "course"
+title: "MATH 220A Modern Algebra I"
+description: "Coursework at UC Santa Barbara."
+course_code: "MATH 220A"
+instructor: "Zijian Yao"
 year: 2025
-term: Fall
+term: "Fall"
 term_id: 20254
-course_id: math-220a
+course_id: "math-220a"
 ---
 
-## Textbooks:
-- Introduction to Commutative Algebra -- Atiyah and McDonald
+## Course description
 
-## Topics Covered:
-- Ring localization...
+Group theory and representation theory, including an introduction to character theory, following Jean-Pierre Serre’s text on representations of finite groups.
+
+## Textbook
+
+Jean-Pierre Serre, _Linear Representations of Finite Groups_.

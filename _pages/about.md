@@ -31,7 +31,7 @@ My primary mathematical interests lie in algebra.
 I'm currently doing a [DRP](https://www.ucsbdrp.org/) project with [Jitendra Rathore](https://sites.google.com/view/jitendra-rathore/) on algebraic geometry.
 I'm reading from [Algebraic Geometry I](https://link.springer.com/book/10.1007/978-3-658-30733-2) by Gortz & Wedhorn.
 
-I am also interested in probability and am currently taking a [Math for Data Science & Machine Learning](https://web.atzberger.org/pmwiki_intranet/index.php?n=Teaching2026WinterCS120ML.Homepage?setskin=atzbergerClassSkin2) course in the College of Creative Studies.
+I am also interested in probability and took a [Math for Data Science & Machine Learning](https://web.atzberger.org/pmwiki_intranet/index.php?n=Teaching2026WinterCS120ML.Homepage?setskin=atzbergerClassSkin2) course in the College of Creative Studies last quarter.
 
 I was previously a grader for [Math 191](https://catalog.ucsb.edu/courses/CEvQdR05BQ0WCyK38ovL) at UCSB.
 
