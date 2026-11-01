@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-coming-back-to-math-academy-to-give-guest-lectures-on-fourier-series",
+        },{id: "post-a-markov-chain-with-finite-state-space-has-at-least-one-stationary-distribution",
+        
+          title: "A Markov chain with finite state space has at least one stationary distribution...",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/finite-state-markov-chain-stationary-distribution/";
+          
+        },
+      },{id: "post-coming-back-to-math-academy-to-give-guest-lectures-on-fourier-series",
         
           title: "coming back to Math Academy to give guest lectures on Fourier series",
         
